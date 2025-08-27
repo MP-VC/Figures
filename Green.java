@@ -28,7 +28,7 @@ public class Green
     public int sampleMethod(int y)
     {
         // put your code here
-        var green=1;
+        var green=2;
         return x + green;
     }
 }
