@@ -1,45 +1,18 @@
-Project "figures"
-Authors: Michael Kölling and David J. Barnes
-
-This project is part of the material for the book
-
-   Objects First with Java - A Practical Introduction using BlueJ
-   Seventh edition
-   David J. Barnes and Michael Kölling
-   Pearson Education
-
-It is discussed in chapter 1.
-
-This is a very simple project to demonstrate some characteristics of
-objects.
-
-You can create various shapes, and you will see, if you do, that those
-shapes are drawn on screen (in a window that we call the "canvas").
-
-You can then manipulate these objects: change their position, size and 
-colour. Try it out: create a few different squares, triangles and circles.
-
-This project is designed as a first example of object-oriented programming.
-It illustrates a number of concepts:
-
- - a Java project (application) is a collection of classes
- - objects can be created from classes
- - from any one class, many objects may be created
- - objects have operations (methods)
- - operations can have parameters
- - parameters have types (at least String and int)
- - objects hold data (fields)
- - the operations and fields are common to all objects
- - the values stored in the fields can be different for each object
-
-The project also demonstrates
-
- - BlueJ object creation
- - interactive method invocation
- - parameter passing
-
-A good second project to look at after this is "picture", which adds a class
-to those ones in this project. That class (named "Picture") uses the shapes
-to draw a picture. It can be used to experiment with coding.
 
 //Mahik Patel 8-27-2025 : Hello I added this
+
+Part 3 :
+2.
+When you click move down, it moves the circle down by 20 px each instance.
+If you do make invisible, it will hide the circle no matter how many times triggered
+
+6.
+It opens a window where I can input a color
+
+9. 
+To make the house I generate 2 squares, making one black and the other bigger and red.
+I overlay both squares. 
+I generate a triangle and move its postion on top of the red square
+I increase the triangles size.
+I make a yellow circle
+I move it to the right of the house
